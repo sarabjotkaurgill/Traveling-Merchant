@@ -1,0 +1,22 @@
+The merchant is traveling from one city to the next, selling and buying products on the black market. 
+Sometimes, when traveling between two cities, the merchant is caught by the authorities, who apply penalties to the merchant.
+
+Application support 5 types of products:
+1.Book
+2.Candy
+3.Film
+4.Milk
+5.Toy
+
+Using a console menu, the user can view all of the following information:
+o Merchant inventory: A list of all of the products the merchant owns now 
+o Merchant money: How much money the merchant has now 
+o City name:  The name of the city the merchant is in now 
+o City inventory:  A list of all of the products this city owns now 
+o City selling prices: The selling price for each product type when sold in this city 
+o City buying prices: The buying price for each product type when bought in this city 
+
+Using a console menu, the user can perform the following actions: 
+o Sell Product
+o Buy Product
+o Travel to a new City
